@@ -1,0 +1,2 @@
+# Paradigmas
+Entrega de exercícios
